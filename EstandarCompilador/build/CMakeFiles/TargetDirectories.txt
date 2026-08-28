@@ -1,0 +1,3 @@
+/home/Gallo/Proyectos/C++/Aprendiendo/EstandarCompilador/build/CMakeFiles/EstandarCompilador.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/EstandarCompilador/build/CMakeFiles/edit_cache.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/EstandarCompilador/build/CMakeFiles/rebuild_cache.dir
