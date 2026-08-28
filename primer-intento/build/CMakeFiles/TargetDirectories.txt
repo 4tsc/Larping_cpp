@@ -1,0 +1,3 @@
+/home/Gallo/Proyectos/C++/Aprendiendo/primer-intento/build/CMakeFiles/primer-intento.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/primer-intento/build/CMakeFiles/edit_cache.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/primer-intento/build/CMakeFiles/rebuild_cache.dir
