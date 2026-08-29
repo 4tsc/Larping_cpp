@@ -1,0 +1,3 @@
+/home/Gallo/Proyectos/C++/Aprendiendo/inputOutput/build/CMakeFiles/inputOutput.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/inputOutput/build/CMakeFiles/edit_cache.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/inputOutput/build/CMakeFiles/rebuild_cache.dir
