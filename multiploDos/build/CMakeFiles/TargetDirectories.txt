@@ -1,0 +1,3 @@
+/home/Gallo/Proyectos/C++/Aprendiendo/multiploDos/build/CMakeFiles/multiploDos.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/multiploDos/build/CMakeFiles/edit_cache.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/multiploDos/build/CMakeFiles/rebuild_cache.dir
