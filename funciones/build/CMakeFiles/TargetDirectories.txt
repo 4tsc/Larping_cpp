@@ -1,0 +1,3 @@
+/home/Gallo/Proyectos/C++/Aprendiendo/funciones/build/CMakeFiles/funciones.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/funciones/build/CMakeFiles/edit_cache.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/funciones/build/CMakeFiles/rebuild_cache.dir

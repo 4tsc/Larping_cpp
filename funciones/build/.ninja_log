@@ -1,0 +1,7 @@
+# ninja log v7
+1	33	1788120948284949702	CMakeFiles/funciones.dir/main.cpp.o	ecf5ce81bfd47e25
+261	298	1788120948545949700	funciones	443499ca511de96e
+2	261	1788120948285949702	CMakeFiles/funciones.dir/io.cpp.o	2cd6aa4a0b324faa
+2	31	1788121504572946306	CMakeFiles/funciones.dir/main.cpp.o	ecf5ce81bfd47e25
+2	243	1788121504573807524	CMakeFiles/funciones.dir/io.cpp.o	2cd6aa4a0b324faa
+243	280	1788121504814178970	funciones	443499ca511de96e
