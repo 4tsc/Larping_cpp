@@ -1,0 +1,3 @@
+/home/Gallo/Proyectos/C++/Aprendiendo/sumaDos/build/CMakeFiles/sumaDos.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/sumaDos/build/CMakeFiles/edit_cache.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/sumaDos/build/CMakeFiles/rebuild_cache.dir
