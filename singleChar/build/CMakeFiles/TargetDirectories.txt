@@ -1,0 +1,3 @@
+/home/Gallo/Proyectos/C++/Aprendiendo/singleChar/build/CMakeFiles/singleChar.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/singleChar/build/CMakeFiles/edit_cache.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/singleChar/build/CMakeFiles/rebuild_cache.dir
