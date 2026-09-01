@@ -1,0 +1,3 @@
+/home/Gallo/Proyectos/C++/Aprendiendo/dosFloat/build/CMakeFiles/dosFloat.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/dosFloat/build/CMakeFiles/edit_cache.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/dosFloat/build/CMakeFiles/rebuild_cache.dir
