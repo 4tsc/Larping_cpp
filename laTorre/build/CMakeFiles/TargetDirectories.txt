@@ -1,0 +1,3 @@
+/home/Gallo/Proyectos/C++/Aprendiendo/laTorre/build/CMakeFiles/laTorre.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/laTorre/build/CMakeFiles/edit_cache.dir
+/home/Gallo/Proyectos/C++/Aprendiendo/laTorre/build/CMakeFiles/rebuild_cache.dir
