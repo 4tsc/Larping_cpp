@@ -1,0 +1,5 @@
+# ninja log v7
+2	39	1788724341222408135	build.ninja	f83e71ebf22bbd03
+2	39	1788724341222408135	/home/Gallo/Proyectos/C++/Aprendiendo/headerTest/build/cmake_install.cmake	f83e71ebf22bbd03
+1	273	1788725270537935845	CMakeFiles/headerTest.dir/main.cpp.o	4e167df9e25e74fe
+273	314	1788725270810384833	headerTest	d730e2ae09eb0f36
